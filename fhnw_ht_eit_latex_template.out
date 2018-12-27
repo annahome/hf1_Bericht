@@ -1,10 +1,13 @@
 \BOOKMARK [1][-]{section.1}{1 Problemstellung}{}% 1
 \BOOKMARK [1][-]{section.2}{2 Grundlagen}{}% 2
-\BOOKMARK [1][-]{section.3}{3 Dimensionierung des Baluns}{}% 3
-\BOOKMARK [2][-]{subsection.3.1}{3.1 Ersatzschaltung}{section.3}% 4
-\BOOKMARK [2][-]{subsection.3.2}{3.2 Die Kernfrage}{section.3}% 5
-\BOOKMARK [2][-]{subsection.3.3}{3.3 Windungszahl}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.4}{3.4 Draht oder Litze?}{section.3}% 7
-\BOOKMARK [1][-]{section.4}{4 Evaluierung}{}% 8
-\BOOKMARK [1][-]{section.5}{5 Erkenntnisse}{}% 9
-\BOOKMARK [1][-]{section.6}{6 Schlusswort}{}% 10
+\BOOKMARK [2][-]{subsection.2.1}{2.1 Spannungsbalun}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{2.2 Strombalun}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{2.2.1 Guanella-Balun}{subsection.2.2}% 5
+\BOOKMARK [1][-]{section.3}{3 Dimensionierung des Baluns}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{3.1 Ersatzschaltung}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{3.2 Die Kernfrage}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{3.3 Windungszahl}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{3.4 Draht oder Litze?}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{4 Evaluierung}{}% 11
+\BOOKMARK [1][-]{section.5}{5 Erkenntnisse}{}% 12
+\BOOKMARK [1][-]{section.6}{6 Schlusswort}{}% 13
