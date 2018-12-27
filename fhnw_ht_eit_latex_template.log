@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.26)  16 DEC 2018 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.26)  27 DEC 2018 17:07
 entering extended mode
 **./fhnw_ht_eit_latex_template.tex
 (fhnw_ht_eit_latex_template.tex
@@ -1941,14 +1941,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 9.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<fhnwlogo.pdf, id=30, 183.81773pt x 28.4543pt>
+<fhnwlogo.pdf, id=42, 183.81773pt x 28.4543pt>
 File: fhnwlogo.pdf Graphic file (type pdf)
 <use fhnwlogo.pdf>
 Package pdftex.def Info: fhnwlogo.pdf  used on input line 14.
 (pdftex.def)             Requested size: 220.57736pt x 34.1433pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 14.
-<./graphics/titelbild.pdf, id=31, 762.85pt x 401.5pt>
+<./graphics/titelbild.pdf, id=43, 762.85pt x 401.5pt>
 File: ./graphics/titelbild.pdf Graphic file (type pdf)
 <use ./graphics/titelbild.pdf>
 Package pdftex.def Info: ./graphics/titelbild.pdf  used on input line 19.
@@ -1978,12 +1978,12 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \openout2 = `sections/problemstellung.aux'.
 
  (sections/problemstellung.tex
-<./graphics/ausgangslage.png, id=75, 412.54124pt x 235.47975pt>
+<./graphics/ausgangslage.png, id=90, 412.54124pt x 235.47975pt>
 File: ./graphics/ausgangslage.png Graphic file (type png)
 <use ./graphics/ausgangslage.png>
 Package pdftex.def Info: ./graphics/ausgangslage.png  used on input line 5.
 (pdftex.def)             Requested size: 273.14922pt x 155.91655pt.
-<./graphics/idealer_dipol.png, id=78, 479.391pt x 325.215pt>
+<./graphics/idealer_dipol.png, id=93, 479.391pt x 325.215pt>
 File: ./graphics/idealer_dipol.png Graphic file (type png)
 <use ./graphics/idealer_dipol.png>
 Package pdftex.def Info: ./graphics/idealer_dipol.png  used on input line 15.
@@ -2012,26 +2012,79 @@ l.51 \include{sections/problemstellung}
 \openout2 = `sections/balun.aux'.
 
 
-(sections/balun.tex) [4
+(sections/balun.tex
+
+LaTeX Warning: Reference `Grundlagen' on page 4 undefined on input line 3.
+
+<./graphics/Ersatzschaltung_Spule.jpg, id=113, 588.2778pt x 171.039pt>
+File: ./graphics/Ersatzschaltung_Spule.jpg Graphic file (type jpg)
+<use ./graphics/Ersatzschaltung_Spule.jpg>
+Package pdftex.def Info: ./graphics/Ersatzschaltung_Spule.jpg  used on input li
+ne 17.
+(pdftex.def)             Requested size: 318.66946pt x 92.65459pt.
+<./graphics/Klassischer_Strombalun.jpg, id=115, 705.837pt x 173.448pt>
+File: ./graphics/Klassischer_Strombalun.jpg Graphic file (type jpg)
+<use ./graphics/Klassischer_Strombalun.jpg>
+Package pdftex.def Info: ./graphics/Klassischer_Strombalun.jpg  used on input l
+ine 25.
+(pdftex.def)             Requested size: 318.66946pt x 78.31024pt.
+[4
 
 
+ <./graphics/Ersatzschaltung_Spule.jpg> <./graphics/Klassischer_Strombalun.jpg>
 ]
+<./graphics/diff_mode.jpg, id=127, 503.481pt x 130.5678pt>
+File: ./graphics/diff_mode.jpg Graphic file (type jpg)
+<use ./graphics/diff_mode.jpg>
+Package pdftex.def Info: ./graphics/diff_mode.jpg  used on input line 40.
+(pdftex.def)             Requested size: 364.19664pt x 94.44902pt.
+<./graphics/com_mode.jpg, id=129, 566.115pt x 172.9662pt>
+File: ./graphics/com_mode.jpg Graphic file (type jpg)
+<use ./graphics/com_mode.jpg>
+Package pdftex.def Info: ./graphics/com_mode.jpg  used on input line 59.
+(pdftex.def)             Requested size: 364.19664pt x 111.27597pt.
+ [5 <./graphics/diff_mode.jpg> <./graphics/com_mode.jpg>]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 71.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<./graphics/ferrit_kurve.png, id=141, 193.9245pt x 216.81pt>
+File: ./graphics/ferrit_kurve.png Graphic file (type png)
+<use ./graphics/ferrit_kurve.png>
+Package pdftex.def Info: ./graphics/ferrit_kurve.png  used on input line 80.
+(pdftex.def)             Requested size: 318.66946pt x 356.30843pt.
+ [6 <./graphics/ferrit_kurve.png>]
+<./graphics/Induktivitaet_Toroid.jpg, id=149, 150.3216pt x 110.814pt>
+File: ./graphics/Induktivitaet_Toroid.jpg Graphic file (type jpg)
+<use ./graphics/Induktivitaet_Toroid.jpg>
+Package pdftex.def Info: ./graphics/Induktivitaet_Toroid.jpg  used on input lin
+e 99.
+(pdftex.def)             Requested size: 136.5746pt x 100.6853pt.
+<./graphics/Kapazitaet_Toroid.jpg, id=150, 184.5294pt x 86.2422pt>
+File: ./graphics/Kapazitaet_Toroid.jpg Graphic file (type jpg)
+<use ./graphics/Kapazitaet_Toroid.jpg>
+Package pdftex.def Info: ./graphics/Kapazitaet_Toroid.jpg  used on input line 1
+13.
+(pdftex.def)             Requested size: 227.62204pt x 106.38913pt.
+ [7 <./graphics/Induktivitaet_Toroid.jpg> <./graphics/Kapazitaet_Toroid.jpg>]) 
+[8]
 \openout2 = `sections/evaluierung.aux'.
 
- (sections/evaluierung.tex) [5
+ (sections/evaluierung.tex) [9
 
 
 ]
 \openout2 = `sections/erkenntnisse.aux'.
 
-
-(sections/erkenntnisse.tex) [6
+ (sections/erkenntnisse.tex)
+[10
 
 
 ]
 \openout2 = `sections/schlusswort.aux'.
 
- (sections/schlusswort.tex) [7
+ (sections/schlusswort.tex) [11
 
 
 ]
@@ -2052,36 +2105,50 @@ ung.aux) (sections/grundlagen.aux) (sections/balun.aux)
 (sections/schlusswort.aux) (sections/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
-Package rerunfilecheck Info: File `fhnw_ht_eit_latex_template.out' has not chan
-ged.
-(rerunfilecheck)             Checksum: AE683AE7AE120AB9C93106DDD1B00DF5;313.
+
+
+Package rerunfilecheck Warning: File `fhnw_ht_eit_latex_template.out' has chang
+ed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `fhnw_ht_eit_latex_template.out':
+(rerunfilecheck)             Before: 1DF3748AE7B91A1F8C4E38513E012F0F;515
+(rerunfilecheck)             After:  6E85441CF845456FE853BB93DD1B6A2C;587.
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'fhnw_ht_eit_latex_template.run.xml'.
 \openout1 = `fhnw_ht_eit_latex_template.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 48887 strings out of 492972
- 1013118 string characters out of 3135883
- 1564282 words of memory out of 3000000
- 51993 multiletter control sequences out of 15000+200000
- 589491 words of font info for 57 fonts, out of 3000000 for 9000
+ 49010 strings out of 492972
+ 1015826 string characters out of 3135883
+ 1569019 words of memory out of 3000000
+ 52076 multiletter control sequences out of 15000+200000
+ 605211 words of font info for 66 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 64i,8n,81p,1153b,2285s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Fil
-es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
-nc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec
-.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy
-10.pfb>
-Output written on fhnw_ht_eit_latex_template.pdf (10 pages, 433819 bytes).
+ 64i,15n,81p,1153b,2285s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/
+dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-maths
+y.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program
+ Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
+m/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/lm/lmro10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
+mssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
+Output written on fhnw_ht_eit_latex_template.pdf (14 pages, 733546 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 
