@@ -1,9 +1,9 @@
 [0] Config.pm:340> INFO - This is Biber 2.4
 [0] Config.pm:343> INFO - Logfile is 'fhnw_ht_eit_latex_template.blg'
-[34] biber:287> INFO - === Don Jan 17, 2019, 15:42:26
-[120] Biber.pm:348> INFO - Reading 'fhnw_ht_eit_latex_template.bcf'
-[248] Biber.pm:742> INFO - Found 0 citekeys in bib section 0
-[248] Utils.pm:147> WARN - The file 'fhnw_ht_eit_latex_template.bcf' does not contain any citations!
-[253] bbl.pm:519> INFO - Writing 'fhnw_ht_eit_latex_template.bbl' with encoding 'UTF-8'
-[254] bbl.pm:615> INFO - Output to fhnw_ht_eit_latex_template.bbl
-[255] Biber.pm:109> INFO - WARNINGS: 1
+[35] biber:287> INFO - === Die Feb  5, 2019, 10:52:55
+[119] Biber.pm:348> INFO - Reading 'fhnw_ht_eit_latex_template.bcf'
+[239] Biber.pm:742> INFO - Found 0 citekeys in bib section 0
+[240] Utils.pm:147> WARN - The file 'fhnw_ht_eit_latex_template.bcf' does not contain any citations!
+[247] bbl.pm:519> INFO - Writing 'fhnw_ht_eit_latex_template.bbl' with encoding 'UTF-8'
+[248] bbl.pm:615> INFO - Output to fhnw_ht_eit_latex_template.bbl
+[248] Biber.pm:109> INFO - WARNINGS: 1
