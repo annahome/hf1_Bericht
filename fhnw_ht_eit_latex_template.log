@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.16)  28 DEC 2018 00:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.16)  17 JAN 2019 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2181,44 +2181,45 @@ Package pdftex.def Info: fhnwlogo.pdf used on input line 14.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 14.
 
-<./graphics/titelbild.pdf, id=60, 762.85pt x 401.5pt>
-File: ./graphics/titelbild.pdf Graphic file (type pdf)
+<./graphics/titel.jpg, id=60, 1606.0pt x 1204.5pt>
+File: ./graphics/titel.jpg Graphic file (type jpg)
+ <use ./graphics/titel.jpg>
+Package pdftex.def Info: ./graphics/titel.jpg used on input line 19.
+(pdftex.def)             Requested size: 455.24408pt x 341.42978pt.
 
-<use ./graphics/titelbild.pdf>
-Package pdftex.def Info: ./graphics/titelbild.pdf used on input line 19.
-(pdftex.def)             Requested size: 455.24408pt x 239.60306pt.
- [1
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fhnwlogo.pdf> <./graphic
-s/titelbild.pdf>]
+s/titel.jpg>]
 \openout2 = `sections/abstract.aux'.
 
- (./sections/abstract.tex)
-[2
+ (./sections/abstract.tex) [2
 
 
 ]
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 46.
- (/usr/share/texmf/tex/latex/lm/t1lmss.fd
+
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (./fhnw_ht_eit_latex_template.toc)
 \tf@toc=\write6
 \openout6 = `fhnw_ht_eit_latex_template.toc'.
 
- [1
+
+[1
 
 ]
 \openout2 = `sections/problemstellung.aux'.
 
  (./sections/problemstellung.tex
-<./graphics/ausgangslage.png, id=111, 412.54124pt x 235.47975pt>
+<./graphics/ausgangslage.png, id=109, 412.54124pt x 235.47975pt>
 File: ./graphics/ausgangslage.png Graphic file (type png)
 
 <use ./graphics/ausgangslage.png>
 Package pdftex.def Info: ./graphics/ausgangslage.png used on input line 5.
 (pdftex.def)             Requested size: 273.14922pt x 155.91655pt.
 
-<./graphics/idealer_dipol.png, id=114, 479.391pt x 325.215pt>
+<./graphics/idealer_dipol.png, id=112, 479.391pt x 325.215pt>
 File: ./graphics/idealer_dipol.png Graphic file (type png)
 
 <use ./graphics/idealer_dipol.png>
@@ -2242,14 +2243,14 @@ l.51 \include{sections/problemstellung}
 \openout2 = `sections/grundlagen.aux'.
 
  (./sections/grundlagen.tex
-<./graphics/Spannungsbalung.jpg, id=130, 167.1846pt x 133.9404pt>
+<./graphics/Spannungsbalung.jpg, id=128, 167.1846pt x 133.9404pt>
 File: ./graphics/Spannungsbalung.jpg Graphic file (type jpg)
 
 <use ./graphics/Spannungsbalung.jpg>
 Package pdftex.def Info: ./graphics/Spannungsbalung.jpg used on input line 12.
 (pdftex.def)             Requested size: 136.5746pt x 109.42511pt.
 
-<./graphics/Strombalun.jpg, id=133, 177.3024pt x 95.3964pt>
+<./graphics/Strombalun.jpg, id=131, 177.3024pt x 95.3964pt>
 File: ./graphics/Strombalun.jpg Graphic file (type jpg)
 
 <use ./graphics/Strombalun.jpg>
@@ -2259,7 +2260,7 @@ Package pdftex.def Info: ./graphics/Strombalun.jpg used on input line 20.
 
 
  <./graphics/Spannungsbalung.jpg> <./graphics/Strombalun.jpg>] <./graphics/Guan
-ella.jpg, id=141, 469.2732pt x 218.2554pt>
+ella.jpg, id=139, 469.2732pt x 218.2554pt>
 File: ./graphics/Guanella.jpg Graphic file (type jpg)
 
 <use ./graphics/Guanella.jpg>
@@ -2273,7 +2274,7 @@ Package pdftex.def Info: ./graphics/Guanella.jpg used on input line 38.
 
 LaTeX Warning: Reference `Grundlagen' on page 5 undefined on input line 3.
 
-<./graphics/Ersatzschaltung_Spule.jpg, id=152, 588.2778pt x 171.039pt>
+<./graphics/Ersatzschaltung_Spule.jpg, id=150, 588.2778pt x 171.039pt>
 File: ./graphics/Ersatzschaltung_Spule.jpg Graphic file (type jpg)
 
 <use ./graphics/Ersatzschaltung_Spule.jpg>
@@ -2281,7 +2282,7 @@ Package pdftex.def Info: ./graphics/Ersatzschaltung_Spule.jpg used on input lin
 e 17.
 (pdftex.def)             Requested size: 318.66946pt x 92.65459pt.
 
-<./graphics/Klassischer_Strombalun.jpg, id=154, 705.837pt x 173.448pt>
+<./graphics/Klassischer_Strombalun.jpg, id=152, 705.837pt x 173.448pt>
 File: ./graphics/Klassischer_Strombalun.jpg Graphic file (type jpg)
 
 <use ./graphics/Klassischer_Strombalun.jpg>
@@ -2293,14 +2294,14 @@ ne 25.
 
  <./graphics/Ersatzschaltung_Spule.jpg> <./graphics/Klassischer_Strombalun.jpg>
 ]
-<./graphics/diff_mode.jpg, id=164, 503.481pt x 130.5678pt>
+<./graphics/diff_mode.jpg, id=162, 503.481pt x 130.5678pt>
 File: ./graphics/diff_mode.jpg Graphic file (type jpg)
 
 <use ./graphics/diff_mode.jpg>
 Package pdftex.def Info: ./graphics/diff_mode.jpg used on input line 40.
 (pdftex.def)             Requested size: 364.19664pt x 94.44902pt.
 
-<./graphics/com_mode.jpg, id=166, 566.115pt x 172.9662pt>
+<./graphics/com_mode.jpg, id=164, 566.115pt x 172.9662pt>
 File: ./graphics/com_mode.jpg Graphic file (type jpg)
 
 <use ./graphics/com_mode.jpg>
@@ -2311,14 +2312,14 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 71.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<./graphics/ferrit_kurve.png, id=179, 193.9245pt x 216.81pt>
+<./graphics/ferrit_kurve.png, id=177, 193.9245pt x 216.81pt>
 File: ./graphics/ferrit_kurve.png Graphic file (type png)
 
 <use ./graphics/ferrit_kurve.png>
 Package pdftex.def Info: ./graphics/ferrit_kurve.png used on input line 80.
 (pdftex.def)             Requested size: 318.66946pt x 356.30843pt.
  [7 <./graphics/ferrit_kurve.png>]
-<./graphics/Induktivitaet_Toroid.jpg, id=187, 150.3216pt x 110.814pt>
+<./graphics/Induktivitaet_Toroid.jpg, id=185, 150.3216pt x 110.814pt>
 File: ./graphics/Induktivitaet_Toroid.jpg Graphic file (type jpg)
 
 <use ./graphics/Induktivitaet_Toroid.jpg>
@@ -2326,7 +2327,7 @@ Package pdftex.def Info: ./graphics/Induktivitaet_Toroid.jpg used on input line
  99.
 (pdftex.def)             Requested size: 136.5746pt x 100.6853pt.
 
-<./graphics/Kapazitaet_Toroid.jpg, id=188, 184.5294pt x 86.2422pt>
+<./graphics/Kapazitaet_Toroid.jpg, id=186, 184.5294pt x 86.2422pt>
 File: ./graphics/Kapazitaet_Toroid.jpg Graphic file (type jpg)
 
 <use ./graphics/Kapazitaet_Toroid.jpg>
@@ -2374,7 +2375,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `fhnw_ht_eit_latex_template.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 34ACF1876ED12F8C3BF73EF428DAC327;789.
+(rerunfilecheck)             Checksum: DE921D00110EF782C38ADC1445A061A8;789.
 
 
 LaTeX Warning: There were undefined references.
@@ -2386,8 +2387,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
  44479 strings out of 493029
- 915556 string characters out of 6136233
- 1419480 words of memory out of 5000000
+ 915536 string characters out of 6136233
+ 1419482 words of memory out of 5000000
  47188 multiletter control sequences out of 15000+600000
  76520 words of font info for 56 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
@@ -2405,10 +2406,10 @@ texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 ro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8
 .pfb>
-Output written on fhnw_ht_eit_latex_template.pdf (15 pages, 765616 bytes).
+Output written on fhnw_ht_eit_latex_template.pdf (15 pages, 914568 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
+ 285 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
  51 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
