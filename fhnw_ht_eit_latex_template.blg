@@ -1,9 +1,15 @@
-[0] Config.pm:340> INFO - This is Biber 2.4
-[0] Config.pm:343> INFO - Logfile is 'fhnw_ht_eit_latex_template.blg'
-[35] biber:287> INFO - === Die Feb  5, 2019, 10:52:55
-[119] Biber.pm:348> INFO - Reading 'fhnw_ht_eit_latex_template.bcf'
-[239] Biber.pm:742> INFO - Found 0 citekeys in bib section 0
-[240] Utils.pm:147> WARN - The file 'fhnw_ht_eit_latex_template.bcf' does not contain any citations!
-[247] bbl.pm:519> INFO - Writing 'fhnw_ht_eit_latex_template.bbl' with encoding 'UTF-8'
-[248] bbl.pm:615> INFO - Output to fhnw_ht_eit_latex_template.bbl
-[248] Biber.pm:109> INFO - WARNINGS: 1
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'fhnw_ht_eit_latex_template.blg'
+[28] biber-MSWIN64:313> INFO - === 
+[54] Biber.pm:371> INFO - Reading 'fhnw_ht_eit_latex_template.bcf'
+[136] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
+[150] Biber.pm:3976> INFO - Processing section 0
+[164] Biber.pm:4136> INFO - Looking for bibtex format file 'literature/bibliography.bib' for section 0
+[167] bibtex.pm:1500> INFO - LaTeX decoding ...
+[172] bibtex.pm:1316> INFO - Found BibTeX data source 'literature/bibliography.bib'
+[187] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[187] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[187] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[187] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[193] bbl.pm:617> INFO - Writing 'fhnw_ht_eit_latex_template.bbl' with encoding 'UTF-8'
+[194] bbl.pm:720> INFO - Output to fhnw_ht_eit_latex_template.bbl

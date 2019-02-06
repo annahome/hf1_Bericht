@@ -18,3 +18,4 @@
 \contentsline {subsection}{\numberline {5.2}Symmetrische Str\IeC {\"o}me}{14}{subsection.5.2}
 \contentsline {section}{\numberline {6}Erkenntnisse}{16}{section.6}
 \contentsline {section}{\numberline {7}Schlusswort}{17}{section.7}
+\contentsline {section}{Literatur}{18}{section*.27}
