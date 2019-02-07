@@ -1976,6 +1976,11 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">balun_work</bcf:citekey>
+    <bcf:citekey order="2">balun_work</bcf:citekey>
+    <bcf:citekey order="3">sevik</bcf:citekey>
+    <bcf:citekey order="4">balun_schneider</bcf:citekey>
+    <bcf:citekey order="5">balun_work</bcf:citekey>
+    <bcf:citekey order="6">balun_meas</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

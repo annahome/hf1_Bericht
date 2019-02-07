@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.26)  7 FEB 2019 16:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.26)  7 FEB 2019 16:40
 entering extended mode
 **./fhnw_ht_eit_latex_template.tex
 (fhnw_ht_eit_latex_template.tex
@@ -2020,7 +2020,7 @@ Package pdftex.def Info: ./graphics/Strombalun.jpg  used on input line 21.
 
 
  <./graphics/Spannungsbalung.jpg> <./graphics/Strombalun.jpg>]
-<./graphics/Guanella.jpg, id=161, 469.2732pt x 218.2554pt>
+<./graphics/Guanella.jpg, id=163, 469.2732pt x 218.2554pt>
 File: ./graphics/Guanella.jpg Graphic file (type jpg)
 <use ./graphics/Guanella.jpg>
 Package pdftex.def Info: ./graphics/Guanella.jpg  used on input line 39.
@@ -2030,13 +2030,13 @@ Package pdftex.def Info: ./graphics/Guanella.jpg  used on input line 39.
 
 
 (sections/balun.tex
-<./graphics/Ersatzschaltung_Spule.jpg, id=172, 588.2778pt x 171.039pt>
+<./graphics/Ersatzschaltung_Spule.jpg, id=175, 588.2778pt x 171.039pt>
 File: ./graphics/Ersatzschaltung_Spule.jpg Graphic file (type jpg)
 <use ./graphics/Ersatzschaltung_Spule.jpg>
 Package pdftex.def Info: ./graphics/Ersatzschaltung_Spule.jpg  used on input li
 ne 17.
 (pdftex.def)             Requested size: 318.66946pt x 92.65459pt.
-<./graphics/Klassischer_Strombalun.jpg, id=174, 705.837pt x 173.448pt>
+<./graphics/Klassischer_Strombalun.jpg, id=177, 705.837pt x 173.448pt>
 File: ./graphics/Klassischer_Strombalun.jpg Graphic file (type jpg)
 <use ./graphics/Klassischer_Strombalun.jpg>
 Package pdftex.def Info: ./graphics/Klassischer_Strombalun.jpg  used on input l
@@ -2047,12 +2047,12 @@ ine 25.
 
  <./graphics/Ersatzschaltung_Spule.jpg> <./graphics/Klassischer_Strombalun.jpg>
 ]
-<./graphics/diff_mode.jpg, id=185, 503.481pt x 130.5678pt>
+<./graphics/diff_mode.jpg, id=188, 503.481pt x 130.5678pt>
 File: ./graphics/diff_mode.jpg Graphic file (type jpg)
 <use ./graphics/diff_mode.jpg>
 Package pdftex.def Info: ./graphics/diff_mode.jpg  used on input line 40.
 (pdftex.def)             Requested size: 364.19664pt x 94.44902pt.
-<./graphics/com_mode.jpg, id=187, 566.115pt x 172.9662pt>
+<./graphics/com_mode.jpg, id=191, 566.115pt x 172.9662pt>
 File: ./graphics/com_mode.jpg Graphic file (type jpg)
 <use ./graphics/com_mode.jpg>
 Package pdftex.def Info: ./graphics/com_mode.jpg  used on input line 59.
@@ -2062,19 +2062,19 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<./graphics/ferrit_kurve.png, id=199, 193.9245pt x 216.81pt>
+<./graphics/ferrit_kurve.png, id=204, 193.9245pt x 216.81pt>
 File: ./graphics/ferrit_kurve.png Graphic file (type png)
 <use ./graphics/ferrit_kurve.png>
 Package pdftex.def Info: ./graphics/ferrit_kurve.png  used on input line 80.
 (pdftex.def)             Requested size: 318.66946pt x 356.30843pt.
  [7 <./graphics/ferrit_kurve.png>]
-<./graphics/Induktivitaet_Toroid.jpg, id=207, 150.3216pt x 110.814pt>
+<./graphics/Induktivitaet_Toroid.jpg, id=212, 150.3216pt x 110.814pt>
 File: ./graphics/Induktivitaet_Toroid.jpg Graphic file (type jpg)
 <use ./graphics/Induktivitaet_Toroid.jpg>
 Package pdftex.def Info: ./graphics/Induktivitaet_Toroid.jpg  used on input lin
 e 99.
 (pdftex.def)             Requested size: 136.5746pt x 100.6853pt.
-<./graphics/Kapazitaet_Toroid.jpg, id=208, 184.5294pt x 86.2422pt>
+<./graphics/Kapazitaet_Toroid.jpg, id=213, 184.5294pt x 86.2422pt>
 File: ./graphics/Kapazitaet_Toroid.jpg Graphic file (type jpg)
 <use ./graphics/Kapazitaet_Toroid.jpg>
 Package pdftex.def Info: ./graphics/Kapazitaet_Toroid.jpg  used on input line 1
@@ -2085,29 +2085,29 @@ Package pdftex.def Info: ./graphics/Kapazitaet_Toroid.jpg  used on input line 1
 \openout2 = `sections/realisierung.aux'.
 
  (sections/realisierung.tex
-<./graphics/Messaufbau_realisierung.png, id=230, 639.8304pt x 339.1872pt>
+<./graphics/Messaufbau_realisierung.png, id=235, 639.8304pt x 339.1872pt>
 File: ./graphics/Messaufbau_realisierung.png Graphic file (type png)
 <use ./graphics/Messaufbau_realisierung.png>
 Package pdftex.def Info: ./graphics/Messaufbau_realisierung.png  used on input 
 line 5.
 (pdftex.def)             Requested size: 318.66946pt x 168.93588pt.
-<./graphics/Impedanz_dimensionierung.PNG, id=231, 568.524pt x 419.76825pt>
+<./graphics/Impedanz_dimensionierung.PNG, id=236, 568.524pt x 419.76825pt>
 File: ./graphics/Impedanz_dimensionierung.PNG Graphic file (type png)
 <use ./graphics/Impedanz_dimensionierung.PNG>
 Package pdftex.def Info: ./graphics/Impedanz_dimensionierung.PNG  used on input
  line 12.
 (pdftex.def)             Requested size: 318.66946pt x 235.29279pt.
-<./graphics/Balun1.jpg, id=233, 1606.0pt x 1204.5pt>
+<./graphics/Balun1.jpg, id=238, 1606.0pt x 1204.5pt>
 File: ./graphics/Balun1.jpg Graphic file (type jpg)
 <use ./graphics/Balun1.jpg>
 Package pdftex.def Info: ./graphics/Balun1.jpg  used on input line 19.
 (pdftex.def)             Requested size: 227.62204pt x 170.70569pt.
-<./graphics/Balun2.jpg, id=234, 1606.0pt x 1204.5pt>
+<./graphics/Balun2.jpg, id=239, 1606.0pt x 1204.5pt>
 File: ./graphics/Balun2.jpg Graphic file (type jpg)
 <use ./graphics/Balun2.jpg>
 Package pdftex.def Info: ./graphics/Balun2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 227.62204pt x 170.70569pt.
-<./graphics/Balun3.jpg, id=235, 1606.0pt x 1204.5pt>
+<./graphics/Balun3.jpg, id=240, 1606.0pt x 1204.5pt>
 File: ./graphics/Balun3.jpg Graphic file (type jpg)
 <use ./graphics/Balun3.jpg>
 Package pdftex.def Info: ./graphics/Balun3.jpg  used on input line 21.
@@ -2121,19 +2121,19 @@ pg>]
 \openout2 = `sections/evaluierung.aux'.
 
  (sections/evaluierung.tex
-<./graphics/Messaufbau_Eingangsimpedanz_2.png, id=256, 546.3612pt x 243.309pt>
+<./graphics/Messaufbau_Eingangsimpedanz_2.png, id=261, 546.3612pt x 243.309pt>
 File: ./graphics/Messaufbau_Eingangsimpedanz_2.png Graphic file (type png)
 <use ./graphics/Messaufbau_Eingangsimpedanz_2.png>
 Package pdftex.def Info: ./graphics/Messaufbau_Eingangsimpedanz_2.png  used on 
 input line 10.
 (pdftex.def)             Requested size: 273.14922pt x 121.64307pt.
-<./graphics/Eingangsimpedanz2.PNG, id=257, 582.978pt x 445.06274pt>
+<./graphics/Eingangsimpedanz2.PNG, id=262, 582.978pt x 445.06274pt>
 File: ./graphics/Eingangsimpedanz2.PNG Graphic file (type png)
 <use ./graphics/Eingangsimpedanz2.PNG>
 Package pdftex.def Info: ./graphics/Eingangsimpedanz2.PNG  used on input line 1
 6.
 (pdftex.def)             Requested size: 273.14922pt x 208.52756pt.
-<./graphics/Messaufbau_Eingangsimpedanz.png, id=259, 885.5484pt x 243.309pt>
+<./graphics/Messaufbau_Eingangsimpedanz.png, id=264, 885.5484pt x 243.309pt>
 File: ./graphics/Messaufbau_Eingangsimpedanz.png Graphic file (type png)
 <use ./graphics/Messaufbau_Eingangsimpedanz.png>
 Package pdftex.def Info: ./graphics/Messaufbau_Eingangsimpedanz.png  used on in
@@ -2145,7 +2145,7 @@ put line 25.
 
  <./graphics/Messaufbau_Eingangsimpedanz_2.png> <./graphics/Eingangsimpedanz2.P
 NG>]
-<./graphics/Eingangsimpedanz.PNG, id=268, 395.076pt x 320.99925pt>
+<./graphics/Eingangsimpedanz.PNG, id=273, 395.076pt x 320.99925pt>
 File: ./graphics/Eingangsimpedanz.PNG Graphic file (type png)
 <use ./graphics/Eingangsimpedanz.PNG>
 Package pdftex.def Info: ./graphics/Eingangsimpedanz.PNG  used on input line 31
@@ -2153,18 +2153,18 @@ Package pdftex.def Info: ./graphics/Eingangsimpedanz.PNG  used on input line 31
 (pdftex.def)             Requested size: 318.66946pt x 258.92549pt.
  [13 <./graphics/Messaufbau_Eingangsimpedanz.png> <./graphics/Eingangsimpedanz.
 PNG>]
-<./graphics/Messaufbau_Symetrie_1.png, id=278, 887.4756pt x 387.849pt>
+<./graphics/Messaufbau_Symetrie_1.png, id=283, 887.4756pt x 387.849pt>
 File: ./graphics/Messaufbau_Symetrie_1.png Graphic file (type png)
 <use ./graphics/Messaufbau_Symetrie_1.png>
 Package pdftex.def Info: ./graphics/Messaufbau_Symetrie_1.png  used on input li
 ne 42.
 (pdftex.def)             Requested size: 364.19664pt x 159.16115pt.
-<./graphics/Betrag_Sym.PNG, id=279, 487.22025pt x 428.802pt>
+<./graphics/Betrag_Sym.PNG, id=286, 487.22025pt x 428.802pt>
 File: ./graphics/Betrag_Sym.PNG Graphic file (type png)
 <use ./graphics/Betrag_Sym.PNG>
 Package pdftex.def Info: ./graphics/Betrag_Sym.PNG  used on input line 50.
-(pdftex.def)             Requested size: 364.19664pt x 320.52765pt.
-<./graphics/Phase_Sym.PNG, id=281, 442.65375pt x 381.8265pt>
+(pdftex.def)             Requested size: 341.43306pt x 300.49304pt.
+<./graphics/Phase_Sym.PNG, id=288, 442.65375pt x 381.8265pt>
 File: ./graphics/Phase_Sym.PNG Graphic file (type png)
 <use ./graphics/Phase_Sym.PNG>
 Package pdftex.def Info: ./graphics/Phase_Sym.PNG  used on input line 56.
@@ -2216,11 +2216,11 @@ Package logreq Info: Writing requests to 'fhnw_ht_eit_latex_template.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 49385 strings out of 492972
- 1023771 string characters out of 3135883
- 1570305 words of memory out of 3000000
- 52391 multiletter control sequences out of 15000+200000
- 611523 words of font info for 69 fonts, out of 3000000 for 9000
+ 49399 strings out of 492972
+ 1024154 string characters out of 3135883
+ 1570478 words of memory out of 3000000
+ 52401 multiletter control sequences out of 15000+200000
+ 615786 words of font info for 70 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,15n,94p,1153b,2285s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
@@ -2236,14 +2236,14 @@ eX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
-r9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pf
-b>
-Output written on fhnw_ht_eit_latex_template.pdf (20 pages, 5006898 bytes).
+r9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
+Output written on fhnw_ht_eit_latex_template.pdf (20 pages, 5027132 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
- 76 named destinations out of 1000 (max. 500000)
+ 402 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
  284 words of extra memory for PDF output out of 10000 (max. 10000000)
 
